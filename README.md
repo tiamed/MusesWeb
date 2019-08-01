@@ -1,5 +1,7 @@
 # mypack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiamed/MusesWeb.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
